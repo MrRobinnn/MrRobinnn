@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrRobinnn
 - 👀 I’m interested in cyber security && DevOps
-- 🌱 I’m currently learning 'Go'
+- 🌱 I’m currently learning 'IOT Hacking'
 - 💞️ I’m looking to collaborate on RedTeaming
 - 📫 How to reach me => spree.wolf@protonmail.com
 
